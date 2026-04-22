@@ -6,7 +6,7 @@
 2) Enable 8080 Port Number in Security Group Inbound Rules
 3) Connect to VM using MobaXterm
 
-## Step-2 : Instal Java ##
+## Step-2 : Install Java ##
 
 ```
 sudo apt update
